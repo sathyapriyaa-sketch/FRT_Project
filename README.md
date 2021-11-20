@@ -8,4 +8,4 @@ Incase of evaluation -- these would be my login credentials with azure :
 workspace="newws"
 resource_grp="newres"
 subscription_id="Workspace-e18a6833-eeb6-4db0-858d-b098746f4034-deployment"
-package  - "student developer package"
+package  - "azure student developer package"
